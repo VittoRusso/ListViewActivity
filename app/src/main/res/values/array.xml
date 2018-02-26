@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Nombres">
+        <item>David</item>
+        <item>Oscar</item>
+        <item>Cristian</item>
+        <item>Santiago</item>
+        <item>Yerry</item>
+        <item>Frank</item>
+        <item>Davinson</item>
+        <item>Wilmar</item>
+        <item>Carlos</item>
+        <item>Abel</item>
+        <item>James</item>
+        <item>Juan Guillermo</item>
+        <item>Giovanni</item>
+        <item>Edwin</item>
+        <item>Carlos</item>
+        <item>Radamel</item>
+        <item>Luis</item>
+        <item>Yimmi</item>
+        <item>Teofilo</item>
+        <item>Jose</item>
+    </string-array>
+
+    <string-array name="Apellidos">
+        <item>Ospina</item>
+        <item>Murillo</item>
+        <item>Zapata</item>
+        <item>Arias</item>
+        <item>Mina</item>
+        <item>Fabras</item>
+        <item>Sanchez</item>
+        <item>Barrios</item>
+        <item>Sanchez</item>
+        <item>Aguilar</item>
+        <item>Rodriguez</item>
+        <item>Cuadrado</item>
+        <item>Moreno</item>
+        <item>Cardona</item>
+        <item>Bacca</item>
+        <item>Falcao</item>
+        <item>Muriel</item>
+        <item>Chara</item>
+        <item>Guitierrez</item>
+        <item>Izquierdo</item>
+    </string-array>
+
+    <string-array name="Posicion">
+        <item>Arquero</item>
+        <item>Central Izquierdo</item>
+        <item>Central Derecho</item>
+        <item>Lateral Derecho</item>
+        <item>Central Derecho</item>
+        <item>Lateral Izquierdo</item>
+        <item>Central Derecho</item>
+        <item>Volante Mixto</item>
+        <item>Volante de Marca</item>
+        <item>Volante Mixto</item>
+        <item>Volante Creativo</item>
+        <item>Volante Ofensivo</item>
+        <item>Volante Creativo</item>
+        <item>Volante Ofensivo</item>
+        <item>Central Delantero</item>
+        <item>Central Delantero</item>
+        <item>Extremo</item>
+        <item>Extremo</item>
+        <item>Media Punta</item>
+        <item>Extremo</item>
+    </string-array>
+
+    <string-array name="Edad">
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>22</item>
+        <item>21</item>
+        <item>22</item>
+        <item>21</item>
+        <item>23</item>
+    </string-array>
+
+    <string-array name="Convocado">
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+        <item>No Convocado</item>
+    </string-array>
+
+
+</resources>
